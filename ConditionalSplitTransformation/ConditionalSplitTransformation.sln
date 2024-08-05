@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ConditionalSplitTransformation", "ConditionalSplitTransformation\ConditionalSplitTransformation.dtproj", "{4F9C3401-C4C6-4947-99B7-CD56B5851D0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F9C3401-C4C6-4947-99B7-CD56B5851D0A}.Development|Default.ActiveCfg = Development
+		{4F9C3401-C4C6-4947-99B7-CD56B5851D0A}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {380CCD67-40B0-4C63-9EFC-0549956E1FBC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "AggregateTransformation", "AggregateTransformation\AggregateTransformation.dtproj", "{4355B15E-D8B1-4837-B051-1814AC26ECCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4355B15E-D8B1-4837-B051-1814AC26ECCE}.Development|Default.ActiveCfg = Development
+		{4355B15E-D8B1-4837-B051-1814AC26ECCE}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADF16A08-0746-4BFF-AFC9-7DE694951487}
+	EndGlobalSection
+EndGlobal
